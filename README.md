@@ -1,2 +1,2 @@
 # ML4RnD
-Machine Learning for Reseach and Design
+Machine Learning for Research and Design
